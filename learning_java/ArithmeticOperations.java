@@ -13,7 +13,10 @@ public class ArithmeticOperations {
 
         result = a / b; //Деление переменных
         System.out.println("Деление: " + result); //Вывод результата. "result" является целым типом данных
-        double d = a / b; //Создаем переменную типа "double"
+        double d = (double) a / b; //Создаем переменную типа "double", преобразуем в тип "double"
         System.out.println("Сумма: " + d);
+
+        result = 7 % 3; //Создаем переменную
+        System.out.println("Остаток от деления: " + result); //Вывод результата
     }
 }
