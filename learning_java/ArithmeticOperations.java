@@ -8,7 +8,12 @@ public class ArithmeticOperations {
         result = a - b; //Вычитание переменных
         System.out.println("Разность: " + result);//Вывод результата
 
-        result = a * b;//Умножение переменных
+        result = a * b; //Умножение переменных
         System.out.println("Произведение: " + result);//Вывод результата
+
+        result = a / b; //Деление переменных
+        System.out.println("Деление: " + result); //Вывод результата. "result" является целым типом данных
+        double d = a / b; //Создаем переменную типа "double"
+        System.out.println("Сумма: " + d);
     }
 }
