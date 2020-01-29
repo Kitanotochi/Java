@@ -16,7 +16,7 @@ public class ArithmeticOperations {
         double d = (double) a / b; //Создаем переменную типа "double", преобразуем в тип "double"
         System.out.println("Сумма: " + d);
 
-        result = 7 % 3; //Создаем переменную
+        result = 7 % 3; //Создаем переменную. Деление от остатка
         System.out.println("Остаток от деления: " + result); //Вывод результата
 
         a++; //Инкремент - увеличивает переменную на еденицу. Эквивалент "a = a + 1", "a += 1"
