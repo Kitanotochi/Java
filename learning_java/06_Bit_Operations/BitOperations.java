@@ -6,5 +6,7 @@ public class BitOperations {
         String s_b = Integer.toBinaryString(b); //Преобразуем переменную "b" в двоичную
         System.out.println("s_a = " + s_a); //Вывод результата
         System.out.println("s_a = " + s_b); //Вывод результата
+        System.out.println(s_a + " & " + s_b + " = " + Integer.toBinaryString(a & b)); //Выводим результат с операцией "&"
+        System.out.println(s_a + " | " + s_b + " = " + Integer.toBinaryString(a | b)); //Выводим результат с операцией "|"
     }
 }
