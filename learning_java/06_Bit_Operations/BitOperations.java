@@ -8,5 +8,9 @@ public class BitOperations {
         System.out.println("s_a = " + s_b); //Вывод результата
         System.out.println(s_a + " & " + s_b + " = " + Integer.toBinaryString(a & b)); //Выводим результат с операцией "&"
         System.out.println(s_a + " | " + s_b + " = " + Integer.toBinaryString(a | b)); //Выводим результат с операцией "|"
+        System.out.println(s_a + " ^ " + s_b + " = " + Integer.toBinaryString(a ^ b)); //Выводим резултат с операцией "^"
+        System.out.println("~" + s_a + " = " + Integer.toBinaryString(~a)); //Выводим резульат с операцией "~"
+        System.out.println("~" + a + " = " + ~a); //Вывод результата. Инвертация
+        
     }
 }
