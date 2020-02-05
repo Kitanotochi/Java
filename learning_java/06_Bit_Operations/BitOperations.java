@@ -11,6 +11,7 @@ public class BitOperations {
         System.out.println(s_a + " ^ " + s_b + " = " + Integer.toBinaryString(a ^ b)); //Выводим резултат с операцией "^"
         System.out.println("~" + s_a + " = " + Integer.toBinaryString(~a)); //Выводим резульат с операцией "~"
         System.out.println("~" + a + " = " + ~a); //Вывод результата. Инвертация
-        
+        System.out.println(s_a + " >>1 = " + Integer.toBinaryString(a>>1)); //Вывод результата операцией побитовый сдвиг"
+
     }
 }
