@@ -1,4 +1,5 @@
 public class Variables {
+    //Переменные
     public static void main(String[] args) {
        byte b = 10;
        short s = 2000;

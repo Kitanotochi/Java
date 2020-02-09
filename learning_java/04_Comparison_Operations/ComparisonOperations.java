@@ -1,4 +1,5 @@
 public class ComparisonOperations {
+    //Операции сравнения
     public static void main(String[] args) {
         int a = 7; //Создали переменную "a"
         int b = 8; //Создали переменную "b"
