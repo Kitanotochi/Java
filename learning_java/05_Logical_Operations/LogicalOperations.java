@@ -1,4 +1,5 @@
 public class LogicalOperations {
+    //Логические операции
     public static void main(String[] args) {
        boolean b_1 = true; //Создали переменную "b_1"
        boolean b_2 = false; //Создали переменную "b_2"
