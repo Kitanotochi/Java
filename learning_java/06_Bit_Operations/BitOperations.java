@@ -1,4 +1,5 @@
 public class BitOperations {
+    //Битовые операции
     public static void main(String[] args) {
         int a = 4; //Создали переменную "a"
         int b = 7; //Создали перемунную "b"
