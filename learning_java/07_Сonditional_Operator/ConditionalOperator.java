@@ -7,9 +7,10 @@ public class ConditionalOperator {
             System.out.println("a < b"); //Вывод результата
         }
         else { //Иначе
-            System.out.println("a >= b");//Вывод результат
+            System.out.println("a >= b"); //Вывод результат
         }
         String str = a < b ? "a < b" : "a >= b"; //Тернатный оператор
         System.out.println(str); //Вывод результата
+        System.out.println(a < b ? "a < b" : "a >= b"); //Полная анология кода с использованием "if" и "else"
     }
 }
