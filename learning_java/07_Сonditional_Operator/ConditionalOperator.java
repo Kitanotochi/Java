@@ -12,5 +12,7 @@ public class ConditionalOperator {
         String str = a < b ? "a < b" : "a >= b"; //Тернатный оператор
         System.out.println(str); //Вывод результата
         System.out.println(a < b ? "a < b" : "a >= b"); //Полная анология кода с использованием "if" и "else"
+        int age = 25; //Создали переменную
+        if (age > 18) System.out.println("Совершеннолетний человек"); //Вывод результата
     }
 }
