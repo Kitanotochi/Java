@@ -13,6 +13,7 @@ public class ConditionalOperator {
         System.out.println(str); //Вывод результата
         System.out.println(a < b ? "a < b" : "a >= b"); //Полная анология кода с использованием "if" и "else"
         int age = 25; //Создали переменную
-        if (age > 18) System.out.println("Совершеннолетний человек"); //Вывод результата
+        if (age > 18) System.out.println("Совершеннолетний человек"); //Вывод результата. Условие истино. При ложном условии, результат не будет выведен
+        
     }
 }
