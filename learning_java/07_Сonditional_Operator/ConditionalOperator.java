@@ -20,8 +20,8 @@ public class ConditionalOperator {
         String in; //Создали строковую переменную
         in = JOptionPane.showInputDialog(null, "Введите число:", JOptionPane.QUESTION_MESSAGE);
         double n = Double.parseDouble(in);
-        if (n > 0) System.out.println("Вы ввели положительное число");
-        else if (n == 0) System.out.println("Вы ввели ноль");
-        else System.out.println("Вы ввели отрицательное число");
+        if (n > 0) System.out.println("Вы ввели положительное число"); //Если, условие больше нуля, вывести положительное число
+        else if (n == 0) System.out.println("Вы ввели ноль"); //Если, условие равно нулю, вывести ноль
+        else System.out.println("Вы ввели отрицательное число"); //Иначе, выводит отрицательное значение
     }
 }
