@@ -1,3 +1,5 @@
+import javax.swing.JOptionPane;
+
 public class ConditionalOperator {
     //Операторы сравнения
     public static void main(String[] args) {
@@ -15,5 +17,11 @@ public class ConditionalOperator {
         int age = 25; //Создали переменную
         if (age > 18) System.out.println("Совершеннолетний человек"); //Вывод результата. Условие истино. При ложном условии, результат не будет выведен
         
+        String in; //Создали строковую переменную
+        in = JOptionPane.showInputDialog(null, "Введите число:", JOptionPane.QUESTION_MESSAGE);
+        double n = Double.parseDouble(in);
+        if (n > 0) System.out.println("Вы ввели положительное число");
+        else if (n == 0) System.out.println("Вы ввели ноль");
+        else System.out.println("Вы ввели отрицательное число");
     }
 }
