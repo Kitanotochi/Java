@@ -25,7 +25,7 @@ public class Arrays {
                 System.out.println("Максимальное значение  массиве arr: " + max); //Вывод результата
 
                 for (int a : arr) { //Создали переменную "а", в которую будем помещать элементы массива при каждой иттерации
-                    System.out.println(a);
+                    System.out.println(a); //Вывод результата
                 }
             }
 
