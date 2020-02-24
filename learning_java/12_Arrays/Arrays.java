@@ -9,5 +9,11 @@ public class Arrays {
         arr[4] = 12;
         System.out.println("Элемент с индексом 1 = " + arr[1]); //Вывод результата
 
+        double [] d_arr = new double[20]; //Создали массив со значением типа "double"
+        for (int i = 0; i < d_arr.length; i++)
+            d_arr[i] = Math.random();
+        for (int i = 0; i < d_arr.length; i++)
+            System.out.println(d_arr[i]);
+
     }
 }
