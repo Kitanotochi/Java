@@ -19,7 +19,8 @@ public class MultiArrays {
                 for (int i = 0; i < table.length; i++) {
                     System.out.print((i + 1) + " ");
                     for (int j = 0; j < table[i].length; j++) {
-                        System.out.print(table[i][j] + " ");  
+                        System.out.print(table[i][j] + " "); 
+                        if (table[i][j] < 10) System.out.print(" "); 
                     }
                     System.out.println();
                 }
