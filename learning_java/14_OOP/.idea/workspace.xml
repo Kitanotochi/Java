@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db49922c-94ad-4cad-a08d-0a28f6e3e5a5" name="Default Changelist" comment="" />
+    <list default="true" id="db49922c-94ad-4cad-a08d-0a28f6e3e5a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Kitanotochi/Java.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1YUTTTLc8smIzroikZT8a0GLQGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,5 +48,32 @@
       <updated>1582996180592</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583013126905">
+      <screen x="0" y="22" width="1280" height="710" />
+    </state>
+    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1280.710@0.22.1280.710" timestamp="1583013126904" />
+    <state x="328" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583084277438">
+      <screen x="0" y="22" width="1280" height="710" />
+    </state>
+    <state x="328" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.22.1280.710@0.22.1280.710" timestamp="1583084277438" />
+    <state x="271" y="22" key="CommitChangelistDialog2" timestamp="1583084408734">
+      <screen x="0" y="22" width="1280" height="710" />
+    </state>
+    <state x="271" y="22" key="CommitChangelistDialog2/0.22.1280.710@0.22.1280.710" timestamp="1583084408734" />
   </component>
 </project>
