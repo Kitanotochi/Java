@@ -8,6 +8,7 @@ public class MyClass {
     System.out.println(p.age);
     Person [] p_arr = new Person[3];
     p_arr[0] = new Person("Игорь", "Омск", 30);
-    
+    p_arr[0] = new Person("Олег", "Питер", 20);
+    p_arr[0] = new Person("Андрей", "Москва", 18);
     }
 }
