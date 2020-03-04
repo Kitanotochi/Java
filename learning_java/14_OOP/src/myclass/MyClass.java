@@ -13,5 +13,8 @@ public class MyClass {
     for (int i = 0; i < p_arr.length; i++) {
         System.out.println(p_arr[i].name + " " + p_arr[i].city + " " + p_arr[i].age);
     }
+    for (Person temp : p_arr) {
+        System.out.println(temp.name + " " + temp.city + " " + temp.age);
+    }
     }
 }
