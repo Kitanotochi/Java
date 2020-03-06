@@ -14,6 +14,7 @@ public class MyClass {
         System.out.println(p_arr[i].name + " " + p_arr[i].city + " " + p_arr[i].age);
     }
     for (Person temp : p_arr) {
+        temp.age = 15;
         System.out.println(temp.name + " " + temp.city + " " + temp.age);
     }
     }
