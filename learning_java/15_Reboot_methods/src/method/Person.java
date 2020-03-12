@@ -11,6 +11,6 @@ public class Person {
         this.age = age;
     }
     public String getTextInfo() {
-        
+        return "Имя " + this.name + "; Город" + this.city + "; Возраст " + this.age;
     }
 }
