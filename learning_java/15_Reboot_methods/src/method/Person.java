@@ -13,4 +13,13 @@ public class Person {
     public String getTextInfo() {
         return "Имя " + this.name + "; Город" + this.city + "; Возраст " + this.age;
     }
+    public String getName() {
+        return this.name;
+    }
+    public String getCity() {
+        return this.city;
+    }
+    public int getAge() {
+        return this.age;
+    }
 }
