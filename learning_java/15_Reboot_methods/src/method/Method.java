@@ -13,5 +13,9 @@ public class Method {
 
         Person pNew = new Person("Alex", "Moscow", 20);
         p.whoIsOlder(pNew);
+        pNew.setAge(30);
+        p.whoIsOlder(pNew);
+        pNew.setAge(10);
+        p.whoIsOlder(pNew);
     }
 }

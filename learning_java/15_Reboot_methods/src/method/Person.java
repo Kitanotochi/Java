@@ -32,8 +32,8 @@ public class Person {
        this.age = age;
     }
     public void whoIsOlder(Person p) {
-        if (this.age > p.age) System.out.println(this.name + " старше чем " + p.name);
+        if (this.age > p.age) System.out.println(this.name + " старше чем, " + p.name);
         else if (this.age == p.age) System.out.println(this.name + " и " + p.name + " росвесники!");
-        else System.out.println(this.name + " младше чем " + p.name);
+        else System.out.println(this.name + " младше чем, " + p.name);
     }
 }
