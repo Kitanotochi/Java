@@ -10,16 +10,22 @@ public class Person {
         this.city = city;
         this.age = age;
     }
+    public Person() { //Перегрузка конструкторов
+        this("Default name", "Default city", 18);
+    }
     public String getTextInfo() { //Метод GET
         return "Имя " + this.name + "; Город " + this.city + "; Возраст " + this.age;
     }
     public String getName() {
+
         return this.name;
     }
     public String getCity() {
+
         return this.city;
     }
     public int getAge() {
+
         return this.age;
     }
     public void setName(String name) {
