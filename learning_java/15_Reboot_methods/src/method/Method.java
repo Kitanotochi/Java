@@ -17,5 +17,8 @@ public class Method {
         p.whoIsOlder(pNew);
         pNew.setAge(10);
         p.whoIsOlder(pNew);
+
+        Person person = new Person();
+        System.out.println(person.getTextInfo());
     }
 }
