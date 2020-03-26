@@ -1,9 +1,9 @@
 package access;
 
 public class Person {
-        public String name;
-        protected String city;
-        private int age;
+        public String name; //Полный доступ к этому свойству
+        protected String city; //Данное свойство будет доступно внутри пакета, а так-же во всех классах наследника
+        private int age; //Данное свойство доступно внутри этого класса
 
         public Person(String name, String city, int age) {
             this.name =name;
