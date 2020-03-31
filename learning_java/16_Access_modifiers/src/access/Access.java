@@ -6,5 +6,6 @@ public class Access {
         System.out.println(p.name);
         System.out.println(p.city); // Работает, поскольку один пакет
         // System.out.println(p.age); - Ошибка
+        System.out.println(p.getAge());
     }
 }
