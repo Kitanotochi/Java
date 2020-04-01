@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c0cd67e5-ae37-47f2-818e-a48fc1e0e0af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticdata/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticdata/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/17_Static_Data/staticdata/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/17_Static_Data/staticdata/StaticData.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/staticdata/StaticData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticdata/StaticData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,5 +67,27 @@
       <updated>1585764523660</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="268" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585765766937">
+      <screen x="0" y="22" width="1280" height="708" />
+    </state>
+    <state x="414" y="268" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.22.1280.708@0.22.1280.708" timestamp="1585765766937" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1585765105389">
+      <screen x="0" y="22" width="1280" height="708" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.22.1280.708@0.22.1280.708" timestamp="1585765105389" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1585765105388">
+      <screen x="0" y="22" width="1280" height="708" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.22.1280.708@0.22.1280.708" timestamp="1585765105388" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1585765105387">
+      <screen x="0" y="22" width="1280" height="708" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.22.1280.708@0.22.1280.708" timestamp="1585765105387" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1585765105388">
+      <screen x="0" y="22" width="1280" height="708" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.22.1280.708@0.22.1280.708" timestamp="1585765105388" />
   </component>
 </project>
