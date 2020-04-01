@@ -4,6 +4,7 @@ public class Person {
     public String name; //Полный доступ к этому свойству
     protected String city; //Данное свойство будет доступно внутри пакета, а так-же во всех классах наследника
     private int age; //Данное свойство доступно внутри этого класса
+    private static int count = 0;
 
     public Person(String name, String city, int age) {
         this.name =name;
