@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0cd67e5-ae37-47f2-818e-a48fc1e0e0af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Static_Data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticdata/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticdata/StaticData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desktop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticdata/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticdata/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticdata/StaticData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticdata/StaticData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,26 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="StaticData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staticdata.StaticData" />
+      <module name="17_Static_Data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="staticdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StaticData" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />

@@ -10,6 +10,7 @@ public class Person {
         this.name =name;
         this.city = city;
         this.age = age;
+        count++;
     }
     public Person() { //Перегрузка конструкторов
         this("Default name", "Default city", 18);
