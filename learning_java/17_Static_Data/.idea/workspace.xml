@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0cd67e5-ae37-47f2-818e-a48fc1e0e0af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/17_Static_Data/staticdata/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/17_Static_Data/staticdata/StaticData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/staticdata/StaticData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticdata/StaticData.java" afterDir="false" />
-    </list>
+    <list default="true" id="c0cd67e5-ae37-47f2-818e-a48fc1e0e0af" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
