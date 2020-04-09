@@ -6,7 +6,7 @@ public class Person {
     private int age; //Данное свойство доступно внутри этого класса
 
     public Person(String name, String city, int age) {
-        this.name =name;
+        this.name = name;
         this.city = city;
         this.age = age;
     }
@@ -14,6 +14,7 @@ public class Person {
         this("Default name", "Default city", 18);
     }
     public String getTextInfo() { //Метод GET
+
         return "Имя " + this.name + "; Город " + this.city + "; Возраст " + this.age;
     }
     public String getName() {
