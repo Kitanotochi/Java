@@ -21,5 +21,6 @@ public class Worker extends Person{
     }
 
     public void setSallary(int i) {
+        
     }
 }
