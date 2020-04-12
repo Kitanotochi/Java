@@ -4,6 +4,7 @@ public class Worker extends Person{
     private int salary = 0;
 
     public void setSalary(int salary) {
+
         this.salary = salary;
     }
 
