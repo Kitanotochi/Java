@@ -9,6 +9,7 @@ public class Worker extends Person{
     }
 
     public int getSalary() {
+
         return salary;
     }
 
