@@ -33,9 +33,11 @@ public class Person {
         this.name = name;
     }
     public void setCity(String city) {
+
         this.city = city;
     }
     public void setAge(int age) {
+
         this.age = age;
     }
     public void whoIsOlder(Person p) {
