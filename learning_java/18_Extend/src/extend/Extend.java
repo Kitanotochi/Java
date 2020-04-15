@@ -8,6 +8,5 @@ public class Extend {
         Worker w = new Worker();
         w.setSallary(20000);
         System.out.println(w.getTextInfo());
-
     }
 }
