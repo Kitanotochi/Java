@@ -11,5 +11,6 @@ public class Extend {
         System.out.println((new Worker()).getTextInfo());
 
         Person prog = new Programmer("Igor", "Novgorod", 30, 15);
+        System.out.println(prog.getTextInfo());
     }
 }
