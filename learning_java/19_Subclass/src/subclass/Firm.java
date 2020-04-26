@@ -12,5 +12,9 @@ public class Firm {
     class Director {
         public String name;
         public int age;
+
+        public Director(String name, int age) {
+            
+        }
     }
 }
