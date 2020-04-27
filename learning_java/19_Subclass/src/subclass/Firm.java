@@ -14,7 +14,7 @@ public class Firm {
         public int age;
 
         public Director(String name, int age) {
-            
+
         }
     }
 }
