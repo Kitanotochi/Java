@@ -14,7 +14,9 @@ public class Firm {
         public int age;
 
         public Director(String name, int age) {
-
+            this.name = name;
+            this.age = age;
+            System.out.println();
         }
     }
 }
