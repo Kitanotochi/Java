@@ -16,7 +16,7 @@ public class Firm {
         public Director(String name, int age) {
             this.name = name;
             this.age = age;
-            System.out.println();
+            System.out.println("Создан директор в фирме " + nameFirm);
         }
     }
 }
