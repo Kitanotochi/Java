@@ -18,5 +18,8 @@ public class Firm {
             this.age = age;
             System.out.println("Создан директор в фирме " + nameFirm);
         }
+        public boolean isPensioner() {
+            return age >= 60;
+        }
     }
 }
