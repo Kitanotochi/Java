@@ -20,6 +20,7 @@ public class Firm {
         }
         public boolean isPensioner() {
             return age >= 60;
+            
         }
     }
 }
